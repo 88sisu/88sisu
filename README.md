@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @88sisu
+- 👋 Hi, I’m @88sisu - Reside in Time Zone GMT+7
 - 👀 I’m interested in using Fabric from Daniel Meissler to aid with language learning and investing
 - 🌱 I’m currently learning Thai and trying to keep current on Spanish, French, & TUrkish
-- 💞️ 
+- 
 - 📫 How to reach me ... DMs here in GitHub
 - 😄 Pronouns: He
 - ⚡ Fun fact: Lived in or visited 78 countries
